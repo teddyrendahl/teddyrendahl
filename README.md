@@ -6,7 +6,6 @@ When I'm not poking away at my keyboard, you can find me out in the woods climbi
 ### Tech Stack
 ![Python](https://img.shields.io/badge/-Python-4584B6?logo=python&logoColor=ffde57)
 ![Rust](https://img.shields.io/badge/-Rust-f6eae0?logo=rust&logoColor=ce422b)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 ### Featured blogs/articles
 * ⚖️ [How Poor Prompts Can Lead to Discriminatory Results from Large Language Models](https://teddyrendahl.github.io/2024/02/12/bias_with_poor_prompting.html)
